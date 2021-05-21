@@ -1,6 +1,5 @@
-### Hello! 👋
+### Hello! 👋 My name is Nicole (she/her/her's)
 
-- My pronouns are she/her/her's
 - I am a recent graduate (December 2020) 👩🏼‍🎓 from Amherst College
 - I studied statistics 📊 and psychology 🧠 
 - I am passionate about improving healthcare 🏥 through data and statistical insights 
