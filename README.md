@@ -1,10 +1,9 @@
 ### Hello! 👋 My name is Nicole (she/her/her's)
 
-- I am currently enrolled in a 1-year Master's program studying Computational Biology at the Polytechnic University of Madrid 
+- I am currently enrolled in a 1-year Master's program studying Computational Biology at the Polytechnic University of Madrid 📚👩🏼‍💻
 - I graduated in December 2020 from 👩🏼‍🎓 from Amherst College
-- I studied statistics 📊 and psychology 🧠 
-- I am passionate about improving healthcare 🏥 through data and statistical insights 
-- I am currently seeking full time employment 👩🏼‍💻
+- I studied statistics 📊 and psychology 🧠 as an undergrad
+- I am passionate about improving health 🏥 through data and statistical insights 
 - Fun facts: I am an avid exerciser 🏃🏼‍♀️ and enjoy dancing 💃🏼
 
 I love meeting new people, so if you have any questions or even want to just say hi, feel free to reach out! 
