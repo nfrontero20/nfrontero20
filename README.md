@@ -1,6 +1,7 @@
 ### Hello! 👋 My name is Nicole (she/her/her's)
 
-- I am an American currently living in Spain
+- I am an American currently living in Spain (hablo español)
+- I am open to work! I am seeking a wide range of roles (data science, data analytics, sales representative, HEOR, statistician) anywhere in Europe or remote
 - I completed a Master's in Computational Biology at the [Polytechnic University of Madrid](https://www.upm.es/internacional) 👩🏼‍💻
 - I graduated in December 2020 from 👩🏼‍🎓 from [Amherst College](https://www.amherst.edu/about) (Amherst, Massachusetts, USA).  I majored in statistics 📊 and psychology 🧠 
 - I am passionate about improving health 🏥 through data and statistical insights 
