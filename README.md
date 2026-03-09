@@ -1,6 +1,7 @@
 ### Hello! 👋 My name is Nicole (she/her/her's)
 
-- I am a master's student studying Computational Biology at the [Polytechnic University of Madrid](https://www.upm.es/internacional) 👩🏼‍💻 (expected graduation July 2023)
+- I am an American currently living in Spain
+- I completed a Master's in Computational Biology at the [Polytechnic University of Madrid](https://www.upm.es/internacional) 👩🏼‍💻
 - I graduated in December 2020 from 👩🏼‍🎓 from [Amherst College](https://www.amherst.edu/about) (Amherst, Massachusetts, USA).  I majored in statistics 📊 and psychology 🧠 
 - I am passionate about improving health 🏥 through data and statistical insights 
 - Fun facts: I am an avid exerciser 🏃🏼‍♀️ and enjoy dancing 💃🏼
